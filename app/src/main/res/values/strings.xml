@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+
+    <string name="button_character">Character</string>
+    <string name="button_location">Location</string>
+    <string name="button_episode">Episode</string>
+    <string name="button_more_info">More Information</string>
+
+    <string name="api_fail">API request failed</string>
+    <string name="link_fail">Failed to open the link in browser</string>
+    <string name="character_api_fail">Fail to get characters information</string>
+
+    <string name="episode_characters_name">Characters in this episode: </string>
+
+    <string name="channel_name">browser link</string>
+    <string name="channel_description">Link to information about an episode</string>
+</resources>
